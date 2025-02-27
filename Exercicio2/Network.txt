@@ -1,0 +1,5 @@
+Optei por utilizar o NetWork como solução 
+alternativa para o exercício 2, devido a dificuldades na 
+implementação do LangGraph.
+
+
